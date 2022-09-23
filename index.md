@@ -3,9 +3,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+List of projects done by Kaveri
 
 # Inventory Optimization
 
