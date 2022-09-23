@@ -1,7 +1,4 @@
 # Kaveri Pradeep Portfolio
----
-layout: default
----
 
 List of projects done by Kaveri
 
